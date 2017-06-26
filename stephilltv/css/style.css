@@ -1,0 +1,85 @@
+body{
+  font-family: 'Raleway', sans-serif;
+  font-family: Helvetica, Arial, sans-serif; /*indica el tipo de fuente a usar,
+  prioridad de izquierda a derecha */
+
+}
+
+.raleway{ /*al usar una clase con el tipo de fuente, se puede llamar a la clase
+  en la parte del texto que se quiera usar */
+  font-family: 'Raleway', sans-serif;
+}
+
+
+.main-header{
+  font-size: 18px;
+  text-align: center;
+  background-color:rgb(235,165,7);
+  padding-left:15px;
+  padding-right:15px;
+  padding-top:10px;
+  padding-bottom:10px;
+  border-radius: 4px;
+}
+
+.main-nav{
+  color:white;
+  text-decoration: none;
+  width: 15%;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.text-tittle{
+  text-align: center;
+  color:#0C0C0C;
+}
+
+.main-container{
+  min-height: 100vh;
+}
+
+.main-logo{
+  min-height: :100vh;
+}
+
+.ptraces img{
+  width: 150px;
+  height: 120px;
+  padding-left:15px;
+  padding-right:15px;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+.mnmntraces img{
+  width: 150px;
+  height: 120px;
+  padding: 20px 20px;
+}
+
+
+.card img{
+  border-radius: 3px;
+  box-shadow: 1px 2px rgb(224, 224, 235);
+}
+
+.delay-1{
+  animation-delay: 0.1s
+}
+
+.delay-2{
+  animation-delay: 0.2s
+}
+
+.delay-3{
+  animation-delay: 0.3s
+}
+
+.delay-4{
+  animation-delay: 0.4s
+}
+
+.delay-5{
+  animation-delay: 0.5s
+}
